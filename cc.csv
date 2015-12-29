@@ -1,0 +1,250 @@
+id,label,type
+AD,Andorra,cc
+AE,United Arab Emirates,cc
+AF,Afghanistan,cc
+AG,Antigua and Barbuda,cc
+AI,Anguilla,cc
+AL,Albania,cc
+AM,Armenia,cc
+AO,Angola,cc
+AQ,Antarctica,cc
+AR,Argentina,cc
+AS,American Samoa,cc
+AT,Austria,cc
+AU,Australia,cc
+AW,Aruba,cc
+AX,Åland Islands,cc
+AZ,Azerbaijan,cc
+BA,Bosnia and Herzegovina,cc
+BB,Barbados,cc
+BD,Bangladesh,cc
+BE,Belgium,cc
+BF,Burkina Faso,cc
+BG,Bulgaria,cc
+BH,Bahrain,cc
+BI,Burundi,cc
+BJ,Benin,cc
+BL,Saint Barthélemy,cc
+BM,Bermuda,cc
+BN,Brunei Darussalam,cc
+BO,"Bolivia, Plurinational State of",cc
+BQ,"Bonaire, Sint Eustatius and Saba",cc
+BR,Brazil,cc
+BS,Bahamas,cc
+BT,Bhutan,cc
+BV,Bouvet Island,cc
+BW,Botswana,cc
+BY,Belarus,cc
+BZ,Belize,cc
+CA,Canada,cc
+CC,Cocos (Keeling) Islands,cc
+CD,"Congo, the Democratic Republic of the",cc
+CF,Central African Republic,cc
+CG,Congo,cc
+CH,Switzerland,cc
+CI,Côte d'Ivoire,cc
+CK,Cook Islands,cc
+CL,Chile,cc
+CM,Cameroon,cc
+CN,China,cc
+CO,Colombia,cc
+CR,Costa Rica,cc
+CU,Cuba,cc
+CV,Cabo Verde,cc
+CW,Curaçao,cc
+CX,Christmas Island,cc
+CY,Cyprus,cc
+CZ,Czech Republic,cc
+DE,Germany,cc
+DJ,Djibouti,cc
+DK,Denmark,cc
+DM,Dominica,cc
+DO,Dominican Republic,cc
+DZ,Algeria,cc
+EC,Ecuador,cc
+EE,Estonia,cc
+EG,Egypt,cc
+EH,Western Sahara,cc
+ER,Eritrea,cc
+ES,Spain,cc
+ET,Ethiopia,cc
+FI,Finland,cc
+FJ,Fiji,cc
+FK,Falkland Islands (Malvinas),cc
+FM,"Micronesia, Federated States of",cc
+FO,Faroe Islands,cc
+FR,France,cc
+GA,Gabon,cc
+GB,United Kingdom,cc
+GD,Grenada,cc
+GE,Georgia,cc
+GF,French Guiana,cc
+GG,Guernsey,cc
+GH,Ghana,cc
+GI,Gibraltar,cc
+GL,Greenland,cc
+GM,Gambia,cc
+GN,Guinea,cc
+GP,Guadeloupe,cc
+GQ,Equatorial Guinea,cc
+GR,Greece,cc
+GS,South Georgia and the South Sandwich Islands,cc
+GT,Guatemala,cc
+GU,Guam,cc
+GW,Guinea-Bissau,cc
+GY,Guyana,cc
+HK,Hong Kong,cc
+HM,Heard Island and McDonald Islands,cc
+HN,Honduras,cc
+HR,Croatia,cc
+HT,Haiti,cc
+HU,Hungary,cc
+ID,Indonesia,cc
+IE,Ireland,cc
+IL,Israel,cc
+IM,Isle of Man,cc
+IN,India,cc
+IO,British Indian Ocean Territory,cc
+IQ,Iraq,cc
+IR,"Iran, Islamic Republic of",cc
+IS,Iceland,cc
+IT,Italy,cc
+JE,Jersey,cc
+JM,Jamaica,cc
+JO,Jordan,cc
+JP,Japan,cc
+KE,Kenya,cc
+KG,Kyrgyzstan,cc
+KH,Cambodia,cc
+KI,Kiribati,cc
+KM,Comoros,cc
+KN,Saint Kitts and Nevis,cc
+KP,"Korea, Democratic People's Republic of",cc
+KR,"Korea, Republic of",cc
+KW,Kuwait,cc
+KY,Cayman Islands,cc
+KZ,Kazakhstan,cc
+LA,Lao People's Democratic Republic,cc
+LB,Lebanon,cc
+LC,Saint Lucia,cc
+LI,Liechtenstein,cc
+LK,Sri Lanka,cc
+LR,Liberia,cc
+LS,Lesotho,cc
+LT,Lithuania,cc
+LU,Luxembourg,cc
+LV,Latvia,cc
+LY,Libya,cc
+MA,Morocco,cc
+MC,Monaco,cc
+MD,"Moldova, Republic of",cc
+ME,Montenegro,cc
+MF,Saint Martin (French part),cc
+MG,Madagascar,cc
+MH,Marshall Islands,cc
+MK,"Macedonia, the former Yugoslav Republic of",cc
+ML,Mali,cc
+MM,Myanmar,cc
+MN,Mongolia,cc
+MO,Macao,cc
+MP,Northern Mariana Islands,cc
+MQ,Martinique,cc
+MR,Mauritania,cc
+MS,Montserrat,cc
+MT,Malta,cc
+MU,Mauritius,cc
+MV,Maldives,cc
+MW,Malawi,cc
+MX,Mexico,cc
+MY,Malaysia,cc
+MZ,Mozambique,cc
+NA,Namibia,cc
+NC,New Caledonia,cc
+NE,Niger,cc
+NF,Norfolk Island,cc
+NG,Nigeria,cc
+NI,Nicaragua,cc
+NL,Netherlands[note 2],cc
+NO,Norway,cc
+NP,Nepal,cc
+NR,Nauru,cc
+NU,Niue,cc
+NZ,New Zealand,cc
+OM,Oman,cc
+PA,Panama,cc
+PE,Peru,cc
+PF,French Polynesia,cc
+PG,Papua New Guinea,cc
+PH,Philippines,cc
+PK,Pakistan,cc
+PL,Poland,cc
+PM,Saint Pierre and Miquelon,cc
+PN,Pitcairn,cc
+PR,Puerto Rico,cc
+PS,"Palestine, State of",cc
+PT,Portugal,cc
+PW,Palau,cc
+PY,Paraguay,cc
+QA,Qatar,cc
+RE,Réunion,cc
+RO,Romania,cc
+RS,Serbia,cc
+RU,Russian Federation,cc
+RW,Rwanda,cc
+SA,Saudi Arabia,cc
+SB,Solomon Islands,cc
+SC,Seychelles,cc
+SD,Sudan,cc
+SE,Sweden,cc
+SG,Singapore,cc
+SH,"Saint Helena, Ascension and Tristan da Cunha",cc
+SI,Slovenia,cc
+SJ,Svalbard and Jan Mayen,cc
+SK,Slovakia,cc
+SL,Sierra Leone,cc
+SM,San Marino,cc
+SN,Senegal,cc
+SO,Somalia,cc
+SR,Suriname,cc
+SS,South Sudan,cc
+ST,Sao Tome and Principe,cc
+SV,El Salvador,cc
+SX,Sint Maarten (Dutch part),cc
+SY,Syrian Arab Republic,cc
+SZ,Swaziland,cc
+TC,Turks and Caicos Islands,cc
+TD,Chad,cc
+TF,French Southern Territories,cc
+TG,Togo,cc
+TH,Thailand,cc
+TJ,Tajikistan,cc
+TK,Tokelau,cc
+TL,Timor-Leste,cc
+TM,Turkmenistan,cc
+TN,Tunisia,cc
+TO,Tonga,cc
+TR,Turkey,cc
+TT,Trinidad and Tobago,cc
+TV,Tuvalu,cc
+TW,"Taiwan, Province of China [note 3]",cc
+TZ,"Tanzania, United Republic of",cc
+UA,Ukraine,cc
+UG,Uganda,cc
+UM,United States Minor Outlying Islands,cc
+US,United States,cc
+UY,Uruguay,cc
+UZ,Uzbekistan,cc
+VA,Holy See (Vatican City State),cc
+VC,Saint Vincent and the Grenadines,cc
+VE,"Venezuela, Bolivarian Republic of",cc
+VG,"Virgin Islands, British",cc
+VI,"Virgin Islands, U.S.",cc
+VN,Viet Nam,cc
+VU,Vanuatu,cc
+WF,Wallis and Futuna,cc
+WS,Samoa,cc
+YE,Yemen,cc
+YT,Mayotte,cc
+ZA,South Africa,cc
+ZM,Zambia,cc
+ZW,Zimbabwe,cc
