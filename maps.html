@@ -24,10 +24,11 @@
         { "types": { "Item" : { "pluralLabel": "Universities", "label": "University"} }, "properties": { "FC": { "valueType": "number" }, "Theta_PR": {"valueType": "number"}, "CC": { "valueType": "item" } } }
     </script>
     <style>
-    .legend-label .label{
+    .legend-label .label {
         color: black;
     }
-    .exhibit-size-legend{
+
+    .exhibit-size-legend {
         display: none;
     }
     </style>
@@ -52,13 +53,11 @@
                 <div data-ex-role="facet" data-ex-expression=".LC" data-ex-show-missing="false" data-ex-facet-label="Language Code" data-ex-missing-label="none"></div>
                 <div data-ex-role="facet" data-ex-facet-class="NumericRange" data-ex-expression=".FC" data-ex-show-missing="false" data-ex-facet-label="Foundation Century" data-ex-interval="100" data-ex-missing-label="none"></div>
             </div>
-            <div data-ex-role="coder" data-ex-coder-class="SizeGradient" id="unicoder" data-ex-gradient-points="500, 3; 2400, 40">
+            <div data-ex-role="coder" data-ex-coder-class="SizeGradient" id="unicoder" data-ex-gradient-points="180, 8; 2400, 40">
             </div>
             <div class="col-xs-9">
-
-                    <div data-ex-role="view" data-ex-view-class="Map" data-ex-label="Map of first 100 Unis" data-ex-latlng=".latlng" data-ex-map-height="480" data-ex-show-tool-box="true" data-ex-color-key=".LC" data-ex-color-legend-label="Language Codes" data-ex-size-key=".Theta_PR" data-ex-center="25,0"  data-ex-size-coder="unicoder">
-                    </div>
-
+                <div data-ex-role="view" data-ex-view-class="Map" data-ex-label="Map of first 100 Unis" data-ex-latlng=".latlng" data-ex-map-height="480" data-ex-show-tool-box="true" data-ex-color-key=".LC" data-ex-color-legend-label="Language Codes" data-ex-size-key=".Theta_PR" data-ex-center="25,0" data-ex-size-coder="unicoder">
+                </div>
             </div>
         </div>
     </div>
